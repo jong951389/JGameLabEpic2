@@ -73,6 +73,34 @@
                     "isPartOfComposite": true
                 }
             ]
+        },
+        {
+            "name": "SwordActions",
+            "id": "d3167038-c324-41e1-be0c-7c0b36dfdee2",
+            "actions": [
+                {
+                    "name": "pick",
+                    "type": "Button",
+                    "id": "017811de-d1fd-4e09-ab74-4941b161b268",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e4098839-835f-4247-8f3f-342d14266446",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "pick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []
